@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1128 240" role="img" aria-labelledby="title desc">
+  <title id="title">Vorschlag für das Vorgehen</title>
+  <desc id="desc">Ein Assessment schafft die Grundlage für den Vergleich geeigneter ERP-Betriebsoptionen und einen begrenzten OTC-Pilot für Entwicklung und Test.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1 L6 4 L1 7" fill="none" stroke="#90a3b5" stroke-width="1.5"/></marker>
+  </defs>
+  <rect x="1" y="1" width="1126" height="238" rx="18" fill="#f3f7fa" stroke="#dce6ed"/>
+  <path d="M340 116 H393 M735 116 H788" fill="none" stroke="#90a3b5" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="24" y="34" width="316" height="172" rx="14" fill="#172b40"/>
+    <circle cx="64" cy="72" r="20" fill="#c00065"/><text x="64" y="79" text-anchor="middle" fill="#fff" font-size="18" font-weight="700">1</text>
+    <text x="98" y="79" fill="#fff" font-size="24" font-weight="700">Assessment</text>
+    <text x="48" y="127" fill="#dbe5ed" font-size="20">Bestand und Messungen</text>
+    <text x="48" y="158" fill="#dbe5ed" font-size="20">Abhängigkeiten klären</text>
+    <rect x="406" y="34" width="316" height="172" rx="14" fill="#fff" stroke="#dce6ed"/>
+    <circle cx="446" cy="72" r="20" fill="#f8e6ef"/><text x="446" y="79" text-anchor="middle" fill="#c00065" font-size="18" font-weight="700">2</text>
+    <text x="480" y="79" fill="#172b40" font-size="24" font-weight="700">Optionen</text>
+    <text x="430" y="127" fill="#526476" font-size="20">ERP-Betriebsorte prüfen</text>
+    <text x="430" y="158" fill="#526476" font-size="20">Support, Latenz, Kosten</text>
+    <rect x="788" y="34" width="316" height="172" rx="14" fill="#fff" stroke="#dce6ed"/>
+    <circle cx="828" cy="72" r="20" fill="#f8e6ef"/><text x="828" y="79" text-anchor="middle" fill="#c00065" font-size="18" font-weight="700">3</text>
+    <text x="862" y="79" fill="#172b40" font-size="24" font-weight="700">Pilot</text>
+    <text x="812" y="127" fill="#526476" font-size="20">Entwicklung und Test</text>
+    <text x="812" y="158" fill="#526476" font-size="20">Begrenzter OTC-Pilot</text>
+  </g>
+</svg>

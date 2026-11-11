@@ -1,0 +1,6 @@
+So wähle ich den Betriebsort aus
+Sprechzeit: 2:00
+
+Ich unterscheide vorgegebene Ziele von noch offenen Entscheidungen. Die Open Telekom Cloud für Entwicklung und Test ist vorgegeben. Beim ERP prüfe ich zunächst Ausschlusskriterien: Herstellerunterstützung, erforderliche Latenz, Lizenzierung, Datenverarbeitung und erreichbare Wiederanlaufziele. Danach vergleiche ich passende Optionen anhand Betriebsentlastung, Migrationsrisiko und Gesamtkosten. Eine betreute kompatible Virtualisierung ist mein erster Prüfpfad, weil sie Veränderungen am eng gekoppelten ERP begrenzen kann. Das ist kein vorweggenommenes Produktversprechen. OTC-IaaS bleibt geeignet, wenn Support und Performance nachgewiesen werden und Gastbetrieb beauftragt wird. Ohne passenden Nachweis empfehle ich eine befristete lokale Stabilisierung. Das ERP ist kurzfristig nicht als SaaS verfügbar. Daher bleibt der Verbund zunächst in einer geeigneten virtuellen Umgebung und latenzgerecht zusammen. Unterschiede der Plattformen werden nicht durch bloße Produktnamen entschieden. Übergang: Daraus ergibt sich folgendes vorläufige Zielbild.
+
+Quelle der Kundendaten: Meyer_Industrial_Aufgabenpraesentation_v3.html. Alle zukünftigen Maßnahmen sind Vorschläge, keine durchgeführten Kundenprüfungen.

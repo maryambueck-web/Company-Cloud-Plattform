@@ -1,0 +1,16 @@
+{
+  "name": "M&M",
+  "baseTheme": "standard",
+  "branding": {
+    "ink": "#172b40",
+    "accent": "#0a7d3b",
+    "muted": "#526476",
+    "font": "Arial, Helvetica, sans-serif",
+    "logo": null
+  },
+  "footers": {
+    "main": "M&M",
+    "summary": "Management Summary",
+    "reserve": "Reserve für Rückfragen"
+  }
+}

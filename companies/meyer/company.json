@@ -1,0 +1,15 @@
+{
+  "name": "Meyer Industrial Solutions",
+  "branding": {
+    "ink": "#172b40",
+    "accent": "#c00065",
+    "muted": "#526476",
+    "font": "Arial, Helvetica, sans-serif",
+    "logo": null
+  },
+  "footers": {
+    "main": "Lösungskonzept",
+    "summary": "Management Summary",
+    "reserve": "Reserve für Rückfragen"
+  }
+}

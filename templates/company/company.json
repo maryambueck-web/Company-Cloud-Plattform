@@ -1,0 +1,16 @@
+{
+  "name": "{{NAME}}",
+  "baseTheme": "standard",
+  "branding": {
+    "ink": "{{INK}}",
+    "accent": "{{ACCENT}}",
+    "muted": "#526476",
+    "font": "Arial, Helvetica, sans-serif",
+    "logo": null
+  },
+  "footers": {
+    "main": "{{NAME}}",
+    "summary": "Management Summary",
+    "reserve": "Reserve für Rückfragen"
+  }
+}

@@ -1,0 +1,6 @@
+Management Summary: meine Empfehlung
+Sprechzeit: 2:30
+
+Meyer Industrial braucht verlässlich unterstützte Geschäftsprozesse über fünf Standorte. Ich habe die Ausgangslage nach Geschäftsauswirkung, Abhängigkeiten und Betriebsfähigkeit geordnet. Drei Themen sind entscheidend. Erstens ist die Ursache der ERP-Störungen noch offen. Deshalb sollte eine gezielte Analyse die technische Maßnahme bestimmen. Zweitens bündelt der Hauptsitz heute viele Abhängigkeiten. Direkte geeignete Wege zu Hosting und SaaS können diese Konzentration verringern. Drittens braucht die kleine interne IT klar abgegrenzte Unterstützung im Regelbetrieb. Meine Empfehlung ist deshalb eine schrittweise Transformation. Der ERP-Verbund bleibt latenzgerecht zusammen und erhält einen anhand Support, Performance und Kosten bestätigten Betriebsort. Entwicklung und Test gehen in die vorgegebene Open Telekom Cloud. Identitäten, Zugriffe und Wiederherstellung werden übergreifend abgesichert. Den Nutzen messen wir an Geschäftsabläufen, Wiederanlauf, internem Routineaufwand und Kosten. Ich empfehle diese Richtung, weil sie die bekannten Kundenprobleme adressiert und offene Voraussetzungen ausdrücklich berücksichtigt.
+
+Quelle der Kundendaten: Meyer_Industrial_Aufgabenpraesentation_v3.html. Alle zukünftigen Maßnahmen sind Vorschläge, keine durchgeführten Kundenprüfungen.

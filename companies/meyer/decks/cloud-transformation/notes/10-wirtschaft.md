@@ -1,0 +1,6 @@
+So begründe ich Investition und nächsten Schritt
+Sprechzeit: 2:00
+
+Ich vergleiche die Lösung mit einer realistischen lokalen Erneuerung auf demselben Leistungsniveau. In beiden Varianten berücksichtige ich Lizenzen, Infrastruktur, interne Arbeit, Managed Services, Netzwerk, Security, Backup und DR. Zusätzlich müssen Migration, Parallelbetrieb, Schulung und Exit enthalten sein. Drei- und Fünfjahresbetrachtung sowie Verbrauchssensitivität zeigen Unterschiede. Im Fall fehlen reale Mengen und Preise. Deshalb gebe ich keine erfundene Einsparung als Kundennutzen aus. Geschäftlicher Nutzen besteht auch in verlässlicheren Abläufen und entlasteter IT, muss aber über vereinbarte Kennzahlen nachgewiesen werden. Mein nächster vertrieblicher Schritt ist ein abgegrenztes Assessmentangebot mit Umfang, Preis, Ergebnissen und Entscheidungstermin. Account Management, Architektur, Netzwerk/Security, Service Management, ERP-Partner, Lizenzierung und Datenschutz werden passend eingebunden. Nach Assessment und Pilot lässt sich ein belastbares Umsetzungs- und Betriebsangebot erstellen. Übergang: Ich fasse jetzt die Kundenentscheidung in fünf Minuten zusammen.
+
+Quelle der Kundendaten: Meyer_Industrial_Aufgabenpraesentation_v3.html. Alle zukünftigen Maßnahmen sind Vorschläge, keine durchgeführten Kundenprüfungen.

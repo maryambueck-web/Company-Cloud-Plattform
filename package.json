@@ -1,0 +1,25 @@
+{
+  "name": "praesentations-plattform",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Markdown-Präsentationsplattform mit Marp für mehrere Unternehmen: Branding pro Firma, mehrere Decks, Prüfung, Live-Vorschau und Export",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "help": "node scripts/cli.mjs help",
+    "list": "node scripts/cli.mjs list",
+    "check": "node scripts/cli.mjs check",
+    "compile": "node scripts/cli.mjs compile",
+    "doctor": "node scripts/doctor.mjs",
+    "build": "node scripts/cli.mjs build all",
+    "build:web": "node scripts/cli.mjs build html",
+    "build:pdf": "node scripts/cli.mjs build pdf",
+    "build:pptx": "node scripts/cli.mjs build pptx",
+    "generate": "node scripts/cli.mjs generate",
+    "preview": "node scripts/preview.mjs",
+    "new:company": "node scripts/cli.mjs new:company",
+    "new:deck": "node scripts/cli.mjs new:deck",
+    "new:slide": "node scripts/cli.mjs new:slide"
+  },
+  "devDependencies": { "@marp-team/marp-cli": "4.5.1" }
+}

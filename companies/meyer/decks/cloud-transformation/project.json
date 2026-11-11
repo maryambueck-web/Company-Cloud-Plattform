@@ -1,0 +1,108 @@
+{
+  "title": "Cloud-Transformation bei Meyer Industrial Solutions",
+  "output": "Meyer",
+  "targets": {
+    "mainSeconds": 1200,
+    "summarySeconds": 300
+  },
+  "requiredTerms": [
+    "Zero Trust",
+    "SASE",
+    "EDR",
+    "Containerpilot",
+    "Teams",
+    "SaaS"
+  ],
+  "slides": [
+    {
+      "id": "01-einstieg",
+      "phase": "main",
+      "seconds": 60
+    },
+    {
+      "id": "02-fallstruktur",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "03-prioritaeten",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "04-erp-analyse",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "05-betriebsort",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "06-zielbild",
+      "phase": "main",
+      "seconds": 180
+    },
+    {
+      "id": "07-security",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "08-migration",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "09-betrieb",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "10-wirtschaft",
+      "phase": "main",
+      "seconds": 120
+    },
+    {
+      "id": "11-summary-empfehlung",
+      "phase": "summary",
+      "seconds": 150
+    },
+    {
+      "id": "12-summary-entscheidung",
+      "phase": "summary",
+      "seconds": 150
+    },
+    {
+      "id": "13-zielmatrix",
+      "phase": "reserve",
+      "seconds": 0
+    },
+    {
+      "id": "14-entwicklung",
+      "phase": "reserve",
+      "seconds": 0
+    },
+    {
+      "id": "15-discovery",
+      "phase": "reserve",
+      "seconds": 0
+    },
+    {
+      "id": "16-abnahme",
+      "phase": "reserve",
+      "seconds": 0
+    },
+    {
+      "id": "17-commands",
+      "phase": "reserve",
+      "seconds": 0
+    },
+    {
+      "id": "18-annahmen",
+      "phase": "reserve",
+      "seconds": 0
+    }
+  ]
+}

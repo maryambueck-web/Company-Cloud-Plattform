@@ -1,0 +1,67 @@
+{
+  "titel": "Cloud-Transformation bei Meyer Industrial Solutions – fiktiver Beispielfall",
+  "zielgruppe": [
+    "Geschäftsführung und IT-Leitung",
+    "Fachbereiche und potenzielle Umsetzungspartner"
+  ],
+  "ziel": [
+    "Eine Entscheidung über ein begrenztes Assessment und einen anschließenden Pilot vorbereiten."
+  ],
+  "ausgangslage": [
+    "Meyer Industrial Solutions ist ein fiktiver Fall mit rund 300 Mitarbeitenden und fünf Standorten.",
+    "Vier IT-Mitarbeitende übernehmen Betrieb, Support, Sicherheit und Projekte.",
+    "Das ERP läuft auf mehreren virtuellen Maschinen mit separater Datenbank. Die Ursache gemeldeter Störungen ist unbekannt.",
+    "Microsoft 365 und ein externes CRM werden bereits als SaaS genutzt."
+  ],
+  "herausforderungen": [
+    "ERP-Störungen können zentrale Geschäftsprozesse beeinträchtigen; die technische Ursache ist zunächst zu messen.",
+    "Der Hauptsitz ist ein zentraler Netzwerkknoten; ein Ausfall kann weitere Standorte betreffen.",
+    "Die externe Sicherung ist unvollständig und Wiederherstellungen müssen überprüft werden.",
+    "Die interne IT ist mit Betrieb und Weiterentwicklung stark ausgelastet."
+  ],
+  "ziele": [
+    "Geschäftskritische Abläufe stabilisieren und Störungsursachen nachvollziehbar untersuchen.",
+    "Standorte und mobile Arbeit weniger vom Hauptsitz abhängig machen.",
+    "Die IT durch klar geregelte Betriebsleistungen entlasten.",
+    "Entwicklung und Test in der Open Telekom Cloud pilotieren."
+  ],
+  "anforderungen": [
+    "ERP, Datenbank und Terminalserver als zusammenhängenden Verbund mit geeigneter Latenz betrachten.",
+    "Herstellerfreigaben, Lizenzen und Datenschutz vor einer Migration prüfen.",
+    "Wiederanlaufziele mit den Fachbereichen vereinbaren und durch Tests nachweisen."
+  ],
+  "loesungsansaetze": [
+    "Vorschlag: Zuerst ein Assessment mit Messungen und Bestandsaufnahme durchführen.",
+    "Vorschlag: Eine betreute virtuelle ERP-Umgebung, OTC-IaaS und lokale Erneuerung anhand bestätigter Anforderungen vergleichen.",
+    "Vorschlag: Einen begrenzten OTC-Pilot für Entwicklung und Test planen.",
+    "Vorschlag: Identitäten, geschützte Zugänge, externe Sicherung und Wiederherstellung schrittweise verbessern."
+  ],
+  "risiken": [
+    "Ohne Herstellerfreigabe und geeignete Latenz ist eine ERP-Migration nicht belastbar planbar.",
+    "Nicht dokumentierte Schnittstellen oder unvollständige Sicherungen können Geschäftsprozesse gefährden.",
+    "Kosten, Termine und Einsparungen sind ohne Assessment und konkrete Angebote nicht bestätigt."
+  ],
+  "umsetzung": [
+    "Vorschlag: Assessment, Variantenvergleich, Pilot, abgestimmte Migrationswellen und Betriebsübergabe.",
+    "Vor jeder Umstellung Abnahmekriterien, Verantwortliche und einen geprüften Rückfallweg vereinbaren."
+  ],
+  "betrieb": [
+    "Vorschlag: Kunde, Dienstleister und ERP-Hersteller vereinbaren klare Zuständigkeiten für Betrieb, Support und Wiederherstellung.",
+    "Servicezeiten, Eskalation, Kosten und regelmäßige Restore-Tests sind noch abzustimmen."
+  ],
+  "wirtschaftlichkeit": [
+    "Lokale Erneuerung und geeignete Cloud-Varianten über einen vergleichbaren Zeitraum und Leistungsumfang bewerten.",
+    "Migration, Lizenzen, Netzwerk, Betrieb, Backup und interne Arbeitszeit berücksichtigen.",
+    "Es liegen keine bestätigten Angebote oder Einsparungen vor."
+  ],
+  "offene_fragen": [
+    "Was ist die nachgewiesene Ursache der ERP-Störungen?",
+    "Welche Ausfall- und Datenverlustzeiten sind für die Fachbereiche akzeptabel?",
+    "Welche Hosting- und Lizenzbedingungen gibt der ERP-Hersteller vor?",
+    "Welches Budget und welche Umstellungsfenster stehen zur Verfügung?"
+  ],
+  "quellen": [
+    "Fiktiver Meyer-Fall: companies/meyer/decks/cloud-transformation/reference/Aufgabenbeschreibung.html",
+    "Projektleitfaden: companies/meyer/decks/cloud-transformation/docs/Gesamtleitfaden.md"
+  ]
+}

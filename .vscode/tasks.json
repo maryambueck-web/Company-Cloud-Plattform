@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "inputs": [
+    { "id": "auswahl", "type": "promptString", "description": "Auswahl: leer = alles, <firma> oder <firma>/<deck>", "default": "" },
+    { "id": "firma", "type": "promptString", "description": "Neue Unternehmens-ID (z. B. mueller-gmbh)" },
+    { "id": "firmenname", "type": "promptString", "description": "Anzeigename (z. B. Müller GmbH)" },
+    { "id": "deck", "type": "promptString", "description": "Deck als <firma>/<deck> (z. B. mueller-gmbh/angebot)" },
+    { "id": "slide", "type": "promptString", "description": "Name der neuen Folie (z. B. risiken)" }
+  ],
+  "tasks": [
+    { "label": "Plattform: Übersicht", "type": "shell", "command": "npm run list", "problemMatcher": [] },
+    { "label": "Plattform: Prüfen", "type": "shell", "command": "npm run check -- ${input:auswahl}", "problemMatcher": [] },
+    { "label": "Plattform: HTML erzeugen", "type": "shell", "command": "npm run build:web -- ${input:auswahl}", "problemMatcher": [], "group": { "kind": "build", "isDefault": true } },
+    { "label": "Plattform: Alle Formate erzeugen", "type": "shell", "command": "npm run build -- ${input:auswahl}", "problemMatcher": [] },
+    { "label": "Plattform: Live-Vorschau", "type": "shell", "command": "npm run preview -- ${input:auswahl}", "isBackground": true, "problemMatcher": [] },
+    { "label": "Plattform: Neues Unternehmen", "type": "shell", "command": "npm run new:company -- ${input:firma} \"${input:firmenname}\"", "problemMatcher": [] },
+    { "label": "Plattform: Neues Deck", "type": "shell", "command": "npm run new:deck -- ${input:deck}", "problemMatcher": [] },
+    { "label": "Plattform: Neue Reservefolie", "type": "shell", "command": "npm run new:slide -- ${input:deck} ${input:slide}", "problemMatcher": [] }
+  ]
+}

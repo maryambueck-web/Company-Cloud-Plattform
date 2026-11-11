@@ -1,0 +1,6 @@
+Management Summary: die nächste Entscheidung
+Sprechzeit: 2:30
+
+Ich schlage vor, als nächsten Schritt ein klar abgegrenztes Assessment zu vereinbaren. Die Geschäftsführung benennt den Sponsor und die Fachbereiche bestätigen Prioritäten und Wiederanlaufziele. Die IT stellt Systeminformationen und Ansprechpartner bereit. Das Account Management koordiniert den Angebots- und Entscheidungsprozess. Das Assessment liefert ein Inventar mit Abhängigkeiten, einen bewerteten Messbefund, Hersteller- und Lizenzklärung, zwei geeignete Zielvarianten sowie einen vergleichbaren Kostenrahmen. Daraus entsteht ein begrenzter Pilotauftrag mit Budgetgrenze und Abnahmekriterien. Die Freigabe zur größeren Migration setzt belastbare Herstellerunterstützung, erfolgreiche Geschäftsabläufe, nachgewiesenen Restore und einen wirtschaftlich nachvollziehbaren Betriebsumfang voraus. Falls eine Voraussetzung fehlt, wird die Variante angepasst und nicht einfach trotzdem umgesetzt. So erhält die Geschäftsführung eine überprüfbare Investitionsgrundlage und die IT einen umsetzbaren Plan. Meine konkrete Handlungsempfehlung ist, Umfang, Beteiligte und Entscheidungstermin dieses Assessments festzulegen.
+
+Quelle der Kundendaten: Meyer_Industrial_Aufgabenpraesentation_v3.html. Alle zukünftigen Maßnahmen sind Vorschläge, keine durchgeführten Kundenprüfungen.

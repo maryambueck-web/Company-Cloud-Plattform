@@ -1,0 +1,6 @@
+So setze ich die Prioritäten
+Sprechzeit: 2:00
+
+Ich priorisiere nach Geschäftsauswirkung, zeitlicher Dringlichkeit und Abhängigkeiten. ERP-Störungen kommen zuerst, weil Aufträge, Produktion, Logistik und Abrechnung betroffen sein können. Parallel prüfe ich die Sicherung und Wiederherstellbarkeit, damit die Untersuchung und der spätere Umzug auf einer sicheren Grundlage stattfinden. Die Hauptsitzabhängigkeit ist ein strukturelles Risiko, das ich über Netzwerk und Hosting verringern möchte. Die Entwicklungsumgebung ist nicht durchgehend ausgelastet und benötigt gelegentlich kurzfristig zusätzliche Ressourcen. Das ist ein konkreter Grund für elastische Cloud-Ressourcen. Entwicklungsmodernisierung und die Absicherung kritischer Betriebsrisiken laufen abgestimmt parallel. Im Discovery-Termin frage ich die Prozessverantwortlichen zuerst nach der zulässigen Ausfallzeit und dem tolerierten Datenverlust. Die Werte kann die IT nicht allein festlegen. Für Kosten, Fristen und Prioritäten brauche ich Geschäftsführung, IT, Fachbereiche und Einkauf. Übergang: Die höchste technische Unsicherheit ist derzeit die ERP-Ursache.
+
+Quelle der Kundendaten: Meyer_Industrial_Aufgabenpraesentation_v3.html. Alle zukünftigen Maßnahmen sind Vorschläge, keine durchgeführten Kundenprüfungen.

@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "markdown.marp.themes": ["./themes/standard.css"],
+  "markdown.marp.html": false,
+  "markdown.marp.diagnostics.slideContentOverflow": "warning"
+}

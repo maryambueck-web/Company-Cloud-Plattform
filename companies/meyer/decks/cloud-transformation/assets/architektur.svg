@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 330" role="img" aria-labelledby="title desc">
+  <title id="title">Vorläufige Zielarchitektur für Meyer Industrial Solutions</title>
+  <desc id="desc">Standorte und mobile Nutzer greifen auf betreute Legacy-Systeme, OTC für Entwicklung und Test sowie direkt auf SaaS zu. Identitäten, EDR und Monitoring unterstützen alle Bereiche.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="#526476"/></marker></defs>
+  <g stroke="#526476" stroke-width="2" fill="none" marker-end="url(#arrow)">
+    <path d="M200 95 V135 H240 V185"/>
+    <path d="M200 95 V135 H850 V185"/>
+    <path d="M590 95 V148 H240 V185"/>
+    <path d="M590 95 V148 H850 V185"/>
+    <path d="M360 45 H805"/>
+    <path d="M755 65 H805"/>
+  </g>
+  <g fill="#f1f5f8">
+    <rect x="0" y="0" width="365" height="95" rx="5"/>
+    <rect x="425" y="0" width="330" height="95" rx="5"/>
+    <rect x="805" y="0" width="355" height="95" rx="5"/>
+  </g>
+  <g fill="#172b40">
+    <rect x="0" y="185" width="555" height="98" rx="5"/>
+    <rect x="605" y="185" width="555" height="98" rx="5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172b40">
+    <text x="20" y="32" font-size="24" font-weight="700">Fünf Standorte</text>
+    <text x="20" y="65" font-size="20">Direkte betreute Verbindungen</text>
+    <text x="445" y="32" font-size="24" font-weight="700">Mobile Arbeit</text>
+    <text x="445" y="65" font-size="20">Zero Trust, MFA und ZTNA</text>
+    <text x="825" y="32" font-size="24" font-weight="700">Microsoft 365 / CRM</text>
+    <text x="825" y="65" font-size="20">Teams: kurzer lokaler Internetweg</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#fff">
+    <text x="20" y="219" font-size="24" font-weight="700">Betreute Legacy-Umgebung</text>
+    <text x="20" y="252" font-size="20">Terminalserver, ERP, Datenbank und AD/DNS</text>
+    <text x="625" y="219" font-size="24" font-weight="700">Open Telekom Cloud</text>
+    <text x="625" y="252" font-size="20">Automatisierte VMs, Containerpilot, Plattformdienste</text>
+  </g>
+  <text x="0" y="322" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#172b40">Gemeinsam: SD-WAN / SASE, Identitäten, EDR, Monitoring und Wiederanlauf</text>
+</svg>
