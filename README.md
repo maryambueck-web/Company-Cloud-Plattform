@@ -4,6 +4,14 @@ Mit dieser Plattform lassen sich Präsentationen für mehrere Unternehmen pflege
 
 **Lokal und manuell:** Das Projekt verbindet sich nicht mit Kundensystemen und legt keine Cloud-Ressourcen an. Kundendaten und Ergebnisse müssen vom Nutzer bereitgestellt und geprüft werden.
 
+## Einblicke in das Beispieldeck
+
+Meyer ist ein fiktiver Beispielfall, kein Kundenauftrag.
+
+![Titelfolie des Meyer-Beispieldecks](docs/screenshots/meyer-titel.png)
+
+![Vorläufiges Zielbild im Meyer-Beispieldeck](docs/screenshots/meyer-zielbild.png)
+
 ## Schnellstart
 
 Voraussetzungen: Node.js LTS ab Version 20 und npm. Für PDF- und PowerPoint-Export braucht Marp einen unterstützten Browser.
