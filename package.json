@@ -6,6 +6,7 @@
   "description": "Markdown-Präsentationsplattform mit Marp für mehrere Unternehmen: Branding pro Firma, mehrere Decks, Prüfung, Live-Vorschau und Export",
   "engines": { "node": ">=20" },
   "scripts": {
+    "test": "node --test tests/*.test.mjs",
     "help": "node scripts/cli.mjs help",
     "list": "node scripts/cli.mjs list",
     "check": "node scripts/cli.mjs check",
